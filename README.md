@@ -1,5 +1,4 @@
-# reinaroja.github.io
-
-Página tentativa para ofrecer servicios de tech
+# Repositorio de páginas web
 
 https://caramirezal.github.io/reinaroja.github.io/
+
